@@ -1,5 +1,3 @@
-# Excel Challange
-Module 1 Crowdfunding Challenge
 # Module 1 Excel Challenge Submission
 
 ## Contents
